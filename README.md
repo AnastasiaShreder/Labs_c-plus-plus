@@ -1,2 +1,2 @@
 # Labs_c-plus-plus
-My laboratory works 
+My C++ Laboratory Exercises 
